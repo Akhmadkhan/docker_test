@@ -1,0 +1,8 @@
+[MAIN]
+load-plugins=static-test
+ignore=tests
+
+[MESSAGES CONTROL]
+
+disable=all
+enable=b_akhmadkhan-checker
